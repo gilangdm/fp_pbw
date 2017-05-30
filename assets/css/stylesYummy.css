@@ -1,0 +1,125 @@
+@media (min-width:768px) {
+  .navbar-nav {
+    float:right;
+    margin:0;
+  }
+}
+
+.navbar {
+  position:static;
+  min-height:50px;
+  margin-bottom:0px;
+  border:1px solid transparent;
+}
+
+.jumbotron {
+  background-position: center center;
+  background-size: cover;
+  padding-top:0px;
+  padding-bottom:30px;
+  margin-bottom:30px;
+  color:inherit;
+  background-color:#eee;
+}
+
+.img.menu {
+  vertical-align:middle;
+  margin:auto;
+  display:block;
+}
+
+.container {
+  padding-right:15px;
+  padding-left:15px;
+  margin-top:20px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.h2, h2 {
+  font-size:30px;
+  text-align:center;
+}
+
+.paramenu {
+  text-align:center;
+}
+
+.headharga {
+  text-align:center;
+}
+
+.headmenu {
+  margin-left:30px;
+  font-family: Consolas;
+}
+
+.container-fluid {
+  padding-right:15px;
+  padding-left:15px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:#f47cd0;
+}
+
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  line-height:1.42857143;
+  color:#333;
+  background-color:#f7b9e4;
+}
+
+.navbar-default {
+  background-color:#f8f8f8;
+  border-color:#f47cd0;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  color:#f7b9e4;
+  background-color:#e7e7e7;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color:#fefefe;
+}
+
+.footer-clean {
+  padding:50px 0;
+  background-color:#f47cd0;
+  color:#feffff;
+}
+
+.features-clean {
+  color:#313437;
+  background-color:#fffeff;
+  padding-bottom:30px;
+}
+
+.h1jumbo {
+  margin-top:0px;
+  padding-top:15px;
+  color: white;
+}
+
+.pjumbo {
+  color: white;
+}
+
+.btnpesan {
+  text-align:center;
+}
+
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open > .dropdown-toggle.btn-default.focus, .open > .dropdown-toggle.btn-default:focus, .open > .dropdown-toggle.btn-default:hover {
+  color:#333;
+  background-color:#d4d4d4;
+  border-color:#8c8c8c;
+}
+
+hr {
+  margin-top:20px;
+  margin-bottom:20px;
+  border:20px;
+  border-top:3px solid #f7b9e4;
+}
+

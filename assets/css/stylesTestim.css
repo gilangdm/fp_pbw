@@ -1,0 +1,60 @@
+@media (min-width:768px) {
+  .navbar-nav {
+    float:right;
+    margin:0;
+  }
+}
+
+.container-fluid {
+  padding-right:15px;
+  padding-left:15px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:#f47cd0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color:#fffcfc;
+}
+
+.headtestim {
+  margin-left:15px;
+}
+
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  line-height:1.42857143;
+  color:#333;
+  background-color:#f7b9e4;
+}
+
+.img.testim {
+  vertical-align:middle;
+  margin:auto;
+  display:block;
+}
+
+.img-circle {
+    margin:auto;
+  display:block;
+}
+
+.h1.namatestim {
+  text-align:center;
+}
+
+.p.testim {
+  text-align:justify;
+}
+
+.footer.p.kontak {
+  text-align:center;
+}
+
+.footer.img.yummy {
+  vertical-align:middle;
+  margin:auto;
+  display:block;
+}
+

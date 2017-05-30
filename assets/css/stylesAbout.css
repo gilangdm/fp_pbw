@@ -1,0 +1,48 @@
+@media (min-width:768px) {
+  .navbar-nav {
+    float:right;
+    margin:0;
+  }
+}
+
+.headabout {
+  margin-left:30px;
+  padding-left:15px;
+}
+
+.p.about {
+  margin-bottom: 30px;
+}
+
+.aboutpic {
+    margin: auto;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.navbar-default {
+  background-color:#f8f8f8;
+  border-color:#e7e7e7;
+  position:static;
+}
+
+.container-fluid {
+  padding-right:15px;
+  padding-left:15px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:#f47cd0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color:#ffffff;
+}
+
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  line-height:1.42857143;
+  color:#333;
+  background-color:#f7b9e4;
+}
+
